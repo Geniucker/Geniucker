@@ -1,4 +1,4 @@
-# Hi there 👋, this is [Geniucker](https://geniucker.vercel.app)
+# Hi there 👋, this is [Geniucker](https://blog.geniucker.top)
 
 <!--
 **Geniucker/Geniucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
